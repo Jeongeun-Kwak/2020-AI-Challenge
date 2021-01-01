@@ -6,5 +6,5 @@ NIPA의 2020 AI Chanllenge에 사용한 파이썬 코드입니다. pandas를 이
 https://nbviewer.jupyter.org/       
 위 링크로 접속해서 ipynb파일 주소를 복사 후 붙여넣기해서 코드를 확인하시면 됩니다.    
      
-사용한 데이터는 아래 링          
-https://drive.google.com/drive/folders/1CNfZT-5XdozOa2EK8WKiwOGTGqt_s04X?usp=sharing
+사용한 데이터는 아래 링크에서 보실 수 있습니다.    
+https://drive.google.com/drive/folders/1CNfZT-5XdozOa2EK8WKiwOGTGqt_s04X?usp=sharing    
